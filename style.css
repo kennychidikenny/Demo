@@ -1,10 +1,11 @@
 h1 {
   background-color: antiquewhite;
-}
-p {
-  text-align: center;
-  padding: auto;
   border: 2px solid #999;
+  text-align: center;
+  color: blue;
 }
-
-h1 { color: blue;}
+button {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: black;
+}
